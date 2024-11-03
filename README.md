@@ -1,4 +1,4 @@
-# Jobiy Job Applications Tracking Platform
+# Job Applications Tracking Platform
 
 ## Gallery
 
